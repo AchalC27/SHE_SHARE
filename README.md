@@ -21,9 +21,9 @@ SheShare Vacation Rentals is a website designed to provide rental support exclus
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Insert Backend Framework/Language if applicable]
-- **Database**: [Insert Database Technology if applicable]
-- **Hosting**: [Insert Hosting Platform if applicable]
+- **Backend**: JavaScript
+- **Database**: Mongo
+- **Hosting**: 
 
 ## Installation
 
@@ -40,6 +40,15 @@ For inquiries or support, please contact  chinavalkarachal@gmail.com .
 
 3. Open the `index.html` file in your preferred web browser.
 
+## Screenshots
+
+Here are some screenshots of the SheShare Vacation Rentals website:
+
+![Home Page]
+(/)
+
+![Screenshot 2])
+*Caption for Screenshot 2.*
 ## Contributing
 
 We welcome contributions from the community to enhance SheShare Vacation Rentals. To contribute:
