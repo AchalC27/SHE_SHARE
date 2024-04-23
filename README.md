@@ -44,11 +44,19 @@ For inquiries or support, please contact  chinavalkarachal@gmail.com .
 
 Here are some screenshots of the SheShare Vacation Rentals website:
 
-![Home Page]
-(/)
+![Home Page 1](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/7.png)
 
-![Screenshot 2])
-*Caption for Screenshot 2.*
+![Home Page 2](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/2.png)
+
+![Home Page 3](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/1.png)
+
+![About Us ](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/3.png)
+
+![Contact Us](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/4.png)
+
+![Login ](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/5.png)
+
+![Sign Up](https://github.com/AchalC27/SHE_SHARE/raw/main/design/Screenshot/6.png)
 ## Contributing
 
 We welcome contributions from the community to enhance SheShare Vacation Rentals. To contribute:
